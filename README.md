@@ -41,7 +41,7 @@ This hackpad uses [KMK](https://github.com/KMKfw/kmk_firmware) firmware for ever
 - rgb leds swirl by default, static color available
 
 
-## BOM:
+## BOM (more elaborate BOM [here](http://github.com/sahilchess/Pokemon-Hackpad/blob/main/production/BOM.md)):
 Here should be everything you need to make this amazing hackpad
 - 5x Cherry MX Switches
 - 5x DSA Keycaps
