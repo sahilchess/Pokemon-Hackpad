@@ -156,7 +156,7 @@
         "min_track_width": 0.2,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "C:/Users/sahil/Documents/Kicad Projects/Pokemon-Hackpad/production/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -656,7 +656,7 @@
         "uuid": "b845ba71-0ed5-454f-9247-0969566e5c7e"
       }
     ],
-    "used_designators": "U2,#PWR4-5,D7-11",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
