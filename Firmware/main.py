@@ -40,13 +40,13 @@ keyboard.extensions.append(rgb)
 
 keyboard.keymap = [
     [
-        KC.NO, KC.NO, KC.MUTE,
-        KC.NO, KC.NO, KC.NO,
+        KC.LCTL(KC.Z), KC.LCTL(KC.Y), KC.MUTE,
+        KC.LCTL(KC.C), KC.LCTL(KC.V), KC.LWIN(KC.V),
     ]
 ]
 
 encoder_handler.map = [
-    ((KC.VOLU, KC.VOLD, KC.NO),),
+    ((KC.VOLD, KC.VOLU, KC.NO),),
 ]
 
 if __name__ == '__main__':
