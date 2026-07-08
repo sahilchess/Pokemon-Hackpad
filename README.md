@@ -8,13 +8,13 @@ picture to come!
 
 <img width="auto" height="50" alt="kicad" src="assets/icons/kicad_icon.png" /> <img width="auto" height="50" alt="onshape" src="assets/icons/onshape_icon.png" /> [![things used](https://skillicons.dev/icons?i=py,github,vscode,windows)](https://skillicons.dev)
 
-Pokemon Hackpad is a 5 key macropad with a rotary encoder, and 4 SK6812 MINI E RGB LEDs. It uses KMK firmware
+Pokemon Hackpad is a 5 key macropad with a rotary switch/encoder, and 4 SK6812 MINI E RGB LEDs. It uses KMK/QMK firmware
 I designed this as my own macropad through [hackpad](https://hackclub.hackpad.com), a Hack Club program where you learn to design your own macropad and get it for free
 
 ## Features:
 - An EC11 rotary encoder, controls volume, click to mute
-- 4 SK6812 MINI E RGB LEDs, swirl and static modes
-- 5 Cherry MX style keys, encoder click counts as the 5th
+- 3 SK6812 MINI E RGB LEDs, swirl and static modes
+- 5 Cherry MX style keys
 - Pokemon themed design
 
 ## CAD Model:
@@ -40,7 +40,7 @@ Here's the PCB, made in KiCad.
 ## Firmware Overview
 This hackpad uses [KMK](https://github.com/KMKfw/kmk_firmware) firmware for everything.
 - the rotary encoder changes volume, press to mute
-- the 4 regular keys are copy, paste, undo, redo
+- the 5 regular keys are copy, paste, undo, redo
 - rgb leds swirl by default, static color available
 
 
@@ -49,7 +49,7 @@ Here should be everything you need to make this amazing hackpad
 - 5x Cherry MX Switches
 - 5x DSA Keycaps
 - 6x 1N4148 DO-35 Diodes
-- 4x SK6812 MINI E RGB LEDs
+- 3x SK6812 MINI E RGB LEDs
 - 1x EC11 Rotary Encoder
 - 1x XIAO RP2040
 > insert cart image of the cart iykyk
