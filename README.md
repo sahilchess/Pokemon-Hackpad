@@ -6,7 +6,7 @@ picture to come!
 [![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fsahilchess%2FPokemon-Hackpad%2Ftree%2Fmain%2FPCB)
 
 
-<img width="auto" height="50" alt="kicad" src="icons/kicad_icon.png" /> <img width="auto" height="50" alt="onshape" src="icons/onshape_icon.png" /> [![things used](https://skillicons.dev/icons?i=py,github,vscode,windows)](https://skillicons.dev)
+<img width="auto" height="50" alt="kicad" src="assets/icons/kicad_icon.png" /> <img width="auto" height="50" alt="onshape" src="assets/icons/onshape_icon.png" /> [![things used](https://skillicons.dev/icons?i=py,github,vscode,windows)](https://skillicons.dev)
 
 Pokemon Hackpad is a 5 key macropad with a rotary encoder, and 4 SK6812 MINI E RGB LEDs. It uses KMK firmware
 I designed this as my own macropad through [hackpad](https://hackclub.hackpad.com), a Hack Club program where you learn to design your own macropad and get it for free
