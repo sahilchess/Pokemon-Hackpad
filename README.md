@@ -21,8 +21,10 @@ I designed this as my own macropad through [hackpad](https://hackclub.hackpad.co
 Here is the case, made in onshape. I used onshape because Fusion basically blew my computer up. 
 
 
-<img width="1200" height="auto" alt="Screenshot 2026-06-19 203712" src="https://github.com/user-attachments/assets/fb6f2749-015e-42a0-bc19-9505587f072d" />
-<img width="1200" height="auto" alt="Screenshot 2026-06-19 203446" src="https://github.com/user-attachments/assets/1766e97e-77c3-48db-8a26-7c8a7ceed4cf" />
+<img width="1250" height="auto" alt="image" src="https://github.com/user-attachments/assets/d66efd7f-062a-44ae-808a-4c25495436ef" />
+<img width="1250" height="auto" alt="image" src="https://github.com/user-attachments/assets/79f80972-4f14-406a-a01a-ce2361633350" />
+<img width="1250" height="auto" alt="image" src="https://github.com/user-attachments/assets/909ae86d-40e8-42d0-9a8a-7262f05f65ff" />
+
 
 
 
@@ -30,8 +32,9 @@ Here is the case, made in onshape. I used onshape because Fusion basically blew 
 Here's the PCB, made in KiCad.
 
 
-<img width="1200" height="auto" alt="Screenshot 2026-06-19 202901" src="https://github.com/user-attachments/assets/977bb936-ffad-4c0d-ba2f-5762bcd1ee64" />
-<img width="1200" height="auto" alt="Screenshot 2026-06-19 202941" src="https://github.com/user-attachments/assets/6c2b435f-7777-4178-bf75-753200a51a80" />
+<img width="1250" height="auto" alt="image" src="https://github.com/user-attachments/assets/e868651f-b0b2-4760-a1d3-5f7368389428" />
+<img width="1250" height="auto" alt="image" src="https://github.com/user-attachments/assets/b562254a-c9d8-4f44-96f8-50fde488c712" />
+
 
 
 ## Firmware Overview
@@ -49,4 +52,4 @@ Here should be everything you need to make this amazing hackpad
 - 4x SK6812 MINI E RGB LEDs
 - 1x EC11 Rotary Encoder
 - 1x XIAO RP2040
-<img width="1200" height="auto" alt="Screenshot 2026-06-19 205248" src="https://github.com/user-attachments/assets/7de9fb8e-3e22-494f-b4e1-6dfbed8f962a" />
+> insert cart image of the cart iykyk
