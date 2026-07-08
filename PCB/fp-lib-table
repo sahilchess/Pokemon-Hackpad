@@ -4,4 +4,5 @@
 	(lib (name "MXV2") (type "KiCad") (uri "${KIPRJMOD}/lib/MX_V2-main") (options "") (descr ""))
 	(lib (name "Seeed XIAO") (type "KiCad") (uri "${KIPRJMOD}/lib/OPL_Kicad_Library-master/Seeed Studio XIAO Series Library") (options "") (descr ""))
 	(lib (name "XIAO") (type "KiCad") (uri "${KIPRJMOD}/lib/OPL_Kicad_Library-master/XIAO Family") (options "") (descr ""))
+	(lib (name "OLED") (type "KiCad") (uri "${KIPRJMOD}/lib/OLED/footprings.pretty") (options "") (descr ""))
 )
