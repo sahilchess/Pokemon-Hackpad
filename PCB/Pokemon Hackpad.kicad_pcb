@@ -31173,7 +31173,7 @@
 		(pts
 			(xy 114.25 73.02) (xy 85.2 79.265)
 		)
-		(height 28.76)
+		(height 22.245)
 		(orientation 0)
 		(format
 			(prefix "")
@@ -31193,7 +31193,7 @@
 			(keep_text_aligned yes)
 		)
 		(gr_text "29.05"
-			(at 99.725 100.63 0)
+			(at 99.725 94.115 0)
 			(layer "User.1")
 			(uuid "5a89fb56-58a7-4577-9d8a-af89054ae52b")
 			(effects

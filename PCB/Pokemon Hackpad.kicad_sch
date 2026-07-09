@@ -1936,13 +1936,13 @@
 		(uuid "65d4e5d2-59c3-44d1-867d-886bab450b31")
 	)
 	(junction
-		(at 232.41 50.8)
+		(at 201.93 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8da3a9b5-9f87-44ff-8997-1a67eb3c0ac4")
 	)
 	(junction
-		(at 232.41 35.56)
+		(at 201.93 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "94ad717f-28da-4801-bceb-c1884275cd14")
@@ -1974,7 +1974,7 @@
 		(uuid "3f0ba163-3c56-4e5f-aeda-8213cd22105a")
 	)
 	(no_connect
-		(at 257.81 43.18)
+		(at 227.33 40.64)
 		(uuid "ef1fff1c-69f2-4842-b9d6-9a89ad8eb54d")
 	)
 	(wire
@@ -1999,7 +1999,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 43.18) (xy 207.01 43.18)
+			(xy 173.99 40.64) (xy 176.53 40.64)
 		)
 		(stroke
 			(width 0)
@@ -2009,7 +2009,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 35.56) (xy 232.41 35.56)
+			(xy 219.71 33.02) (xy 201.93 33.02)
 		)
 		(stroke
 			(width 0)
@@ -2019,7 +2019,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 80.01) (xy 228.6 78.74)
+			(xy 198.12 87.63) (xy 198.12 86.36)
 		)
 		(stroke
 			(width 0)
@@ -2029,7 +2029,7 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 43.18) (xy 242.57 43.18)
+			(xy 209.55 40.64) (xy 212.09 40.64)
 		)
 		(stroke
 			(width 0)
@@ -2039,7 +2039,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 93.98) (xy 236.22 77.47)
+			(xy 205.74 101.6) (xy 205.74 85.09)
 		)
 		(stroke
 			(width 0)
@@ -2049,7 +2049,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 77.47) (xy 241.3 80.01)
+			(xy 210.82 85.09) (xy 210.82 87.63)
 		)
 		(stroke
 			(width 0)
@@ -2069,7 +2069,7 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 77.47) (xy 238.76 80.01)
+			(xy 208.28 85.09) (xy 208.28 87.63)
 		)
 		(stroke
 			(width 0)
@@ -2079,7 +2079,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 50.8) (xy 232.41 58.42)
+			(xy 201.93 48.26) (xy 201.93 55.88)
 		)
 		(stroke
 			(width 0)
@@ -2139,7 +2139,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 35.56) (xy 232.41 35.56)
+			(xy 184.15 33.02) (xy 201.93 33.02)
 		)
 		(stroke
 			(width 0)
@@ -2159,7 +2159,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 43.18) (xy 224.79 43.18)
+			(xy 191.77 40.64) (xy 194.31 40.64)
 		)
 		(stroke
 			(width 0)
@@ -2179,7 +2179,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 93.98) (xy 236.22 93.98)
+			(xy 198.12 101.6) (xy 205.74 101.6)
 		)
 		(stroke
 			(width 0)
@@ -2209,7 +2209,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 78.74) (xy 233.68 78.74)
+			(xy 198.12 86.36) (xy 203.2 86.36)
 		)
 		(stroke
 			(width 0)
@@ -2219,7 +2219,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 50.8) (xy 232.41 50.8)
+			(xy 219.71 48.26) (xy 201.93 48.26)
 		)
 		(stroke
 			(width 0)
@@ -2249,7 +2249,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 91.44) (xy 228.6 93.98)
+			(xy 198.12 99.06) (xy 198.12 101.6)
 		)
 		(stroke
 			(width 0)
@@ -2329,7 +2329,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 50.8) (xy 232.41 50.8)
+			(xy 184.15 48.26) (xy 201.93 48.26)
 		)
 		(stroke
 			(width 0)
@@ -2339,7 +2339,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 77.47) (xy 233.68 78.74)
+			(xy 203.2 85.09) (xy 203.2 86.36)
 		)
 		(stroke
 			(width 0)
@@ -2369,7 +2369,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 35.56) (xy 232.41 29.21)
+			(xy 201.93 33.02) (xy 201.93 26.67)
 		)
 		(stroke
 			(width 0)
@@ -2595,7 +2595,7 @@
 	)
 	(global_label "SCL"
 		(shape input)
-		(at 238.76 80.01 270)
+		(at 208.28 87.63 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2605,7 +2605,7 @@
 		)
 		(uuid "67f9b5e1-e6be-410d-99f1-572699792b87")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 238.76 86.5028 90)
+			(at 208.28 94.1228 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2739,7 +2739,7 @@
 	)
 	(global_label "SDA"
 		(shape input)
-		(at 241.3 80.01 270)
+		(at 210.82 87.63 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2749,7 +2749,7 @@
 		)
 		(uuid "a942ac40-0fc1-4233-bb16-1a928f5902af")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 241.3 86.5633 90)
+			(at 210.82 94.1833 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2811,7 +2811,7 @@
 	)
 	(global_label "RGB_LED"
 		(shape input)
-		(at 204.47 43.18 180)
+		(at 173.99 40.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2821,7 +2821,7 @@
 		)
 		(uuid "ef6d178a-eb07-4f86-9f13-4854649b4111")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 193.2601 43.18 0)
+			(at 162.7801 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2859,7 +2859,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 228.6 80.01 0)
+		(at 198.12 87.63 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2869,7 +2869,7 @@
 		(dnp no)
 		(uuid "011b2b7c-3471-484d-b0ac-7316e99c9a4e")
 		(property "Reference" "#PWR06"
-			(at 228.6 86.36 0)
+			(at 198.12 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2880,7 +2880,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 228.854 83.312 0)
+			(at 198.374 90.932 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2890,7 +2890,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 228.6 80.01 0)
+			(at 198.12 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2901,7 +2901,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 228.6 80.01 0)
+			(at 198.12 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2912,7 +2912,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 228.6 80.01 0)
+			(at 198.12 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3016,7 +3016,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 232.41 29.21 0)
+		(at 201.93 26.67 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3027,7 +3027,7 @@
 		(fields_autoplaced yes)
 		(uuid "2c5ca6c0-53ea-46b8-a53a-dea7dc4a712c")
 		(property "Reference" "#PWR04"
-			(at 232.41 33.02 0)
+			(at 201.93 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3038,7 +3038,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 232.41 24.13 0)
+			(at 201.93 21.59 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3048,7 +3048,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 232.41 29.21 0)
+			(at 201.93 26.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3059,7 +3059,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 232.41 29.21 0)
+			(at 201.93 26.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3070,7 +3070,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 232.41 29.21 0)
+			(at 201.93 26.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3552,7 +3552,7 @@
 	)
 	(symbol
 		(lib_id "kicadcarepackage:SK6812MINI-E")
-		(at 250.19 43.18 0)
+		(at 219.71 40.64 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3563,7 +3563,7 @@
 		(fields_autoplaced yes)
 		(uuid "6bbdae5e-795c-4d38-9732-4933d006b1fa")
 		(property "Reference" "D10"
-			(at 275.59 36.7598 0)
+			(at 245.11 34.2198 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3573,7 +3573,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 275.59 39.2999 0)
+			(at 245.11 36.7599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3585,7 +3585,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
-			(at 251.46 50.8 0)
+			(at 220.98 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3597,7 +3597,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf"
-			(at 252.73 52.705 0)
+			(at 222.25 50.165 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3609,7 +3609,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 250.19 43.18 0)
+			(at 219.71 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4032,7 +4032,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 228.6 91.44 0)
+		(at 198.12 99.06 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4043,7 +4043,7 @@
 		(fields_autoplaced yes)
 		(uuid "97f3b553-5262-4ee7-8942-96d3e327162f")
 		(property "Reference" "#PWR07"
-			(at 228.6 95.25 0)
+			(at 198.12 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4054,7 +4054,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 228.6 86.36 0)
+			(at 198.12 93.98 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4064,7 +4064,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 228.6 91.44 0)
+			(at 198.12 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4075,7 +4075,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 228.6 91.44 0)
+			(at 198.12 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4086,7 +4086,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 228.6 91.44 0)
+			(at 198.12 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4187,7 +4187,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 232.41 58.42 0)
+		(at 201.93 55.88 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4197,7 +4197,7 @@
 		(dnp no)
 		(uuid "a0a38cdb-18ae-4072-9f83-fd95bacd2978")
 		(property "Reference" "#PWR05"
-			(at 232.41 64.77 0)
+			(at 201.93 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4208,7 +4208,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 232.664 61.722 0)
+			(at 202.184 59.182 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4218,7 +4218,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 232.41 58.42 0)
+			(at 201.93 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4229,7 +4229,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 232.41 58.42 0)
+			(at 201.93 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4240,7 +4240,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 232.41 58.42 0)
+			(at 201.93 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4264,7 +4264,7 @@
 	)
 	(symbol
 		(lib_id "kicadcarepackage:SK6812MINI-E")
-		(at 214.63 43.18 0)
+		(at 184.15 40.64 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4275,7 +4275,7 @@
 		(fields_autoplaced yes)
 		(uuid "b1f4b87c-e5e9-4b9b-bc37-dae90b5de99c")
 		(property "Reference" "D8"
-			(at 240.03 36.7598 0)
+			(at 209.55 34.2198 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4285,7 +4285,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 240.03 39.2999 0)
+			(at 209.55 36.7599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4297,7 +4297,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
-			(at 215.9 50.8 0)
+			(at 185.42 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4309,7 +4309,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf"
-			(at 217.17 52.705 0)
+			(at 186.69 50.165 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4321,7 +4321,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 214.63 43.18 0)
+			(at 184.15 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4538,7 +4538,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
-		(at 238.76 72.39 270)
+		(at 208.28 80.01 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4549,7 +4549,7 @@
 		(fields_autoplaced yes)
 		(uuid "b892f02a-36a2-42ec-8c01-acb2117cfb82")
 		(property "Reference" "J1"
-			(at 237.49 67.31 90)
+			(at 207.01 74.93 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4559,7 +4559,7 @@
 			)
 		)
 		(property "Value" "OLED_DISPLAY"
-			(at 237.49 69.85 90)
+			(at 207.01 77.47 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4569,7 +4569,7 @@
 			)
 		)
 		(property "Footprint" "OLED:SSD1306-0.91-OLED-4pin-128x32"
-			(at 238.76 72.39 0)
+			(at 208.28 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4580,7 +4580,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 238.76 72.39 0)
+			(at 208.28 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4591,7 +4591,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 238.76 72.39 0)
+			(at 208.28 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4817,7 +4817,7 @@
 	)
 	(symbol
 		(lib_id "kicadcarepackage:SK6812MINI-E")
-		(at 232.41 43.18 0)
+		(at 201.93 40.64 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4828,7 +4828,7 @@
 		(fields_autoplaced yes)
 		(uuid "ffc05ac5-5d1e-4c4e-aa20-b1bf1b853689")
 		(property "Reference" "D9"
-			(at 257.81 36.7598 0)
+			(at 227.33 34.2198 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4838,7 +4838,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 257.81 39.2999 0)
+			(at 227.33 36.7599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4850,7 +4850,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
-			(at 233.68 50.8 0)
+			(at 203.2 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4862,7 +4862,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf"
-			(at 234.95 52.705 0)
+			(at 204.47 50.165 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4874,7 +4874,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 232.41 43.18 0)
+			(at 201.93 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
