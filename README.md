@@ -15,6 +15,7 @@ I designed this as my own macropad through [hackpad](https://hackclub.hackpad.co
 - An EC11 rotary encoder, controls volume, click to mute
 - 3 SK6812 MINI E RGB LEDs, swirl and static modes
 - 5 Cherry MX style keys
+- 128x32 OLED Screen
 - Pokemon themed design
 
 ## CAD Model:
@@ -51,5 +52,9 @@ Here should be everything you need to make this amazing hackpad
 - 6x 1N4148 DO-35 Diodes
 - 3x SK6812 MINI E RGB LEDs
 - 1x EC11 Rotary Encoder
+- 1x 0.91 inch OLED display
+- 4x M3x16mm screws
+- 4x M3x5mx4mm heatset inserts
 - 1x XIAO RP2040
+
 > insert cart image of the cart iykyk
