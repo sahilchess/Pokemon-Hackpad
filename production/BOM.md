@@ -8,13 +8,14 @@ Welcome to the **Bill of Materials (BOM)** for the Pokemon Hackpad.
 | **Rotary Encoder**     | 1       |           |
 | **Cherry MX Switches** | 5       |           |
 | **Diodes**             | 6       |           |
+| **OLED Display**       | 1       |           |
 
 Others:
 
-| **Component**          | **Qty** | **Notes** |
-|------------------------|---------|-----------|
-| **1U Keycaps**         | 5       |           |
-| **KMK Firmware**       | 1       |           |
+| **Component**          | **Qty** | **Notes**                                                                     |
+|------------------------|---------|-------------------------------------------------------------------------------|
+| **1U Keycaps**         | 5       |                                                                               |
+| **KMK Firmware**       | 1       |                                                                               |
 | **PCB**                | 5       | ordered from JLCPCB, Pokemon-Hackpad_Y29, $7.12 total, est arrival 2026-06-22 |
 
 ## Kit Provided
@@ -29,3 +30,4 @@ Others:
 | Blank DSA keycaps                  | 16                | 5               |
 | M3x16mm screws                     | 6                 | 4               |
 | M3x5x4mm heatset inserts           | 6                 | 4               |
+| OLED                               | 1                 | 1               |
