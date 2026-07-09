@@ -1,9 +1,14 @@
 import board
+import busio
+import displayio
+
 from kmk.kmk_keyboard import KMKKeyboard
 from kmk.keys import KC
-from kmk.scanners import DiodeOrientation
+from kmk.matrix import DiodeOrientation
 from kmk.modules.encoder import EncoderHandler
 from kmk.extensions.rgb import RGB, AnimationModes
+from kmk.extensions.display import Display, TextEntry
+from kmk.extensions.display.ssd1306 import SSD1306
 
 keyboard = KMKKeyboard()
 
@@ -12,55 +17,38 @@ keyboard.row_pins = (board.GP3, board.GP4)
 keyboard.diode_orientation = DiodeOrientation.COL2ROW
 
 encoder_handler = EncoderHandler()
-encoder_handler.pins = ((board.GP2, board.GP7, None),)
+encoder_handler.pins = ((board.GP2, board.GP1, None),)
+encoder_handler.map = ((KC.VOLU, KC.VOLD),)
 keyboard.modules.append(encoder_handler)
 
 rgb = RGB(
     pixel_pin=board.GP29,
-    num_pixels=4,
-    val_limit=100,
+    num_pixels=3,
+    animation_mode=AnimationModes.SWIRL,
     hue_default=0,
     sat_default=100,
     val_default=100,
-    animation_mode=AnimationModes.SWIRL,
 )
 keyboard.extensions.append(rgb)
 
-# solid color instead of wave, swap animation_mode above to AnimationModes.STATIC
-# rgb = RGB(
-#     pixel_pin=board.GP29,
-#     num_pixels=4,
-#     val_limit=100,
-#     hue_default=0,
-#     sat_default=100,
-#     val_default=100,
-#     animation_mode=AnimationModes.STATIC,
-# )
-# keyboard.extensions.append(rgb)
+# 0.91in 128x32 ssd1306 oled over i2c on gp6 sda gp7 scl
+displayio.release_displays()
+i2c_bus = busio.I2C(board.GP7, board.GP6)
+driver = SSD1306(i2c=i2c_bus, device_address=0x3C)
+display = Display(
+    entries=[TextEntry(text='pokemon hackpad', x=0, y=0)],
+    width=128,
+    height=32,
+    driver=driver,
+)
+keyboard.extensions.append(display)
 
 keyboard.keymap = [
     [
-        KC.LCTL(KC.Z), KC.LCTL(KC.Y), KC.MUTE,
-        KC.LCTL(KC.C), KC.LCTL(KC.V), KC.LWIN(KC.V),
+        KC.LCTL(KC.C), KC.LCTL(KC.V), KC.MUTE,
+        KC.LCTL(KC.Y), KC.LSFT(KC.LCTL(KC.A)), KC.LCTL(KC.Z),
     ]
-]
-
-encoder_handler.map = [
-    ((KC.VOLD, KC.VOLU, KC.NO),),
 ]
 
 if __name__ == '__main__':
     keyboard.go()
-
-
-"""
-col0, D0, GP26
-col1, D1, GP27
-col2, D2, GP28
-row0, D10, GP3
-row1, D9, GP4
-ec11a, D8, GP2
-ec11b, D5, GP7
-rgb_led, D3, GP29
-
-"""
