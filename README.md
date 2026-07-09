@@ -57,4 +57,5 @@ Here should be everything you need to make this amazing hackpad
 - 4x M3x5mx4mm heatset inserts
 - 1x XIAO RP2040
 
-> insert cart image of the cart iykyk
+<img width="1250" height="auto" alt="image" src="https://github.com/user-attachments/assets/9f16ff3d-f5e0-438e-8fad-45aa195bdb28" />
+
