@@ -4,6 +4,7 @@
 picture to come!
 -->
 [![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fsahilchess%2FPokemon-Hackpad%2Ftree%2Fmain%2FPCB)
+[CAD](https://cad.onshape.com/documents/8d1a80880a531cce319d6767/w/a72820820093b362710dff01/e/ab70c80eedf68ce27917fcfd)
 
 
 <img width="auto" height="50" alt="kicad" src="assets/icons/kicad_icon.png" /> <img width="auto" height="50" alt="onshape" src="assets/icons/onshape_icon.png" /> [![things used](https://skillicons.dev/icons?i=py,github,vscode,windows)](https://skillicons.dev)
