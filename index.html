@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>The Pokemon Hackpad!</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=DynaPuff&family=Geomini&family=Quicksand&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>The Pokemon Hackpad!</h1>
+
+        <div class="model-wrap">
+            <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.5.0/model-viewer.min.js"></script>
+            <model-viewer src="assets/model.glb" camera-controls auto-rotate poster="assets/photo.png" shadow-intensity="1" environment-image="neutral" style="width:100%;height:500px"></model-viewer>
+            <p class="hint">drag to rotate, scroll to zoom</p>
+        </div>
+
+        <div class="desc reveal">
+            <h2>what is this thing</h2>
+            <p>a 5 key macropad with a rotary encoder and 3 SK6812 MINI E RGB LEDs, running KMK firmware on a XIAO RP2040. built through <a href="https://hackpad.hackclub.com" target="_blank">hackpad</a>, a Hack Club program where you design your own macropad and get it for free. case modeled in onshape, pcb in kicad.</p>
+            <div class="icons">
+                <img src="assets/icons/kicad_icon.png" alt="kicad">
+                <img src="assets/icons/onshape_icon.png" alt="onshape">
+            </div>
+        </div>
+
+        <div class="desc reveal">
+            <h2>features</h2>
+            <ul>
+                <li>an EC11 rotary encoder, controls volume, click to mute</li>
+                <li>3 SK6812 MINI E RGB LEDs, swirl and static modes</li>
+                <li>5 Cherry MX style keys</li>
+                <li>pokemon themed design</li>
+            </ul>
+        </div>
+
+        <div class="desc reveal">
+            <h2>cad model</h2>
+            <p>the case, made in onshape. used onshape because fusion basically blew my computer up.</p>
+            <img src="https://github.com/user-attachments/assets/d66efd7f-062a-44ae-808a-4c25495436ef" alt="case render 1">
+            <img src="https://github.com/user-attachments/assets/79f80972-4f14-406a-a01a-ce2361633350" alt="case render 2">
+            <img src="https://github.com/user-attachments/assets/909ae86d-40e8-42d0-9a8a-7262f05f65ff" alt="case render 3">
+        </div>
+
+        <div class="desc reveal">
+            <h2>pcb</h2>
+            <p>made in kicad. <a href="https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fsahilchess%2FPokemon-Hackpad%2Ftree%2Fmain%2FPCB" target="_blank">view the pcb on kicanvas</a></p>
+            <img src="https://github.com/user-attachments/assets/e868651f-b0b2-4760-a1d3-5f7368389428" alt="pcb render 1">
+            <img src="https://github.com/user-attachments/assets/b562254a-c9d8-4f44-96f8-50fde488c712" alt="pcb render 2">
+        </div>
+
+        <div class="desc reveal">
+            <h2>firmware overview</h2>
+            <p>uses <a href="https://github.com/KMKfw/kmk_firmware" target="_blank">KMK</a> firmware for everything.</p>
+            <ul>
+                <li>the rotary encoder changes volume, press to mute</li>
+                <li>the 5 regular keys are copy, paste, undo, redo</li>
+                <li>rgb leds swirl by default, static color available</li>
+            </ul>
+        </div>
+
+        <div class="desc reveal">
+            <h2>bom</h2>
+            <p>everything you need to make this. <a href="http://github.com/sahilchess/Pokemon-Hackpad/blob/main/production/BOM.md" target="_blank">more elaborate bom here</a></p>
+            <ul>
+                <li>5x cherry mx switches</li>
+                <li>5x dsa keycaps</li>
+                <li>6x 1N4148 do-35 diodes</li>
+                <li>3x sk6812 mini e rgb leds</li>
+                <li>1x ec11 rotary encoder</li>
+                <li>1x xiao rp2040</li>
+            </ul>
+        </div>
+
+        <div class="desc reveal">
+            <h2>the hard part</h2>
+            <p>ran into a manifold body error doing a boolean subtract in onshape, traced back to overlapping sketch lines from the imported dxf. fixed it by cleaning zero length segments with python and ezdxf.</p>
+        </div>
+
+        <script>
+        window.addEventListener('load', () => {
+          const reveals = document.querySelectorAll('.reveal')
+          const io = new IntersectionObserver(entries => {
+            entries.forEach(e => {
+              if (e.isIntersecting) {
+                e.target.classList.add('visible')
+                io.unobserve(e.target)
+              }
+            })
+          }, { threshold: 0.1 })
+          reveals.forEach(el => io.observe(el))
+        })
+        </script>
+    </body>
+</html>
