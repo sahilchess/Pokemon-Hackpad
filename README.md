@@ -9,8 +9,7 @@ picture to come!
 
 <img width="auto" height="50" alt="kicad" src="assets/icons/kicad_icon.png" /> <img width="auto" height="50" alt="onshape" src="assets/icons/onshape_icon.png" /> [![things used](https://skillicons.dev/icons?i=py,github,vscode,windows)](https://skillicons.dev)
 
-Pokemon Hackpad is a 5 key macropad with a rotary switch/encoder, and 4 SK6812 MINI E RGB LEDs. It uses KMK/QMK firmware
-I designed this as my own macropad through [hackpad](https://hackclub.hackpad.com), a Hack Club program where you learn to design your own macropad and get it for free
+Pokemon Hackpad is a 5 key macropad with a rotary switch/encoder, and 4 SK6812 MINI E RGB LEDs. It uses KMK/QMK(wip) firmware. I designed this as my own macropad through [hackpad](https://hackclub.hackpad.com), a Hack Club program where you learn to design your own macropad and get it for free
 
 ## Features:
 - An EC11 rotary encoder, controls volume, click to mute
