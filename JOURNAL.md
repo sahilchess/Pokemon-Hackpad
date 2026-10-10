@@ -51,7 +51,7 @@ hackatime: [1h 33m](https://lapse.hackclub.com/timelapse/dk_SIRY0y4f5) | [37m](h
 
 **Total time spent: 6.35hr**
 
-# ctober 3rd: soldering
+# October 3rd: soldering
 
 soldered the rotary, oled, diodes, and mcu
 
@@ -60,3 +60,12 @@ soldered the rotary, oled, diodes, and mcu
 hackatime: [56m](https://lapse.hackclub.com/timelapse/lEt-0jJpvme7)
 
 **Total time spent: .93hr**
+
+# October 4 - October 10: finishing touches
+
+reordered my pcb cuz the oled pins were reversed.
+did soem finishing touches for my case and sent a quote in #printing-legion
+
+hackatime: [39m](https://lapse.hackclub.com/timelapse/BxYMIa21RD5-) | [28m](https://lapse.hackclub.com/timelapse/hy41wROVyg84)
+
+**Total time spent: 1.1hr**
