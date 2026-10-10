@@ -64,7 +64,7 @@ hackatime: [56m](https://lapse.hackclub.com/timelapse/lEt-0jJpvme7)
 # October 4 - October 10: finishing touches
 
 reordered my pcb cuz the oled pins were reversed.
-did soem finishing touches for my case and sent a quote in #printing-legion
+did some finishing touches for my case and sent a quote in #printing-legion. also i just saw that hyper-chroma cool things and i hope this project is good enough! 
 
 hackatime: [39m](https://lapse.hackclub.com/timelapse/BxYMIa21RD5-) | [28m](https://lapse.hackclub.com/timelapse/hy41wROVyg84)
 
