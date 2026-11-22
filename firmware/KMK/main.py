@@ -23,7 +23,7 @@ keyboard.modules.append(encoder_handler)
 
 rgb = RGB(
     pixel_pin=board.GP29,
-    num_pixels=3,
+    num_pixels=2,
     animation_mode=AnimationModes.SWIRL,
     hue_default=0,
     sat_default=100,
