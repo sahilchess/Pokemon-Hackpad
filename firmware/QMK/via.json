@@ -1,0 +1,17 @@
+{
+  "name": "Pokemon Hackpad",
+  "vendorId": "0xCAFE",
+  "productId": "0x504B",
+  "menus": ["qmk_rgblight"],
+  "keycodes": ["qmk_rgblight_keycodes"],
+  "matrix": {
+    "rows": 2,
+    "cols": 3
+  },
+  "layouts": {
+    "keymap": [
+      ["0,0", "0,1", "0,2\n\n\n\n\n\n\n\n\ne0"],
+      ["1,0", "1,1", "1,2"]
+    ]
+  }
+}
