@@ -19,10 +19,13 @@ Pokemon Hackpad is a 5 key macropad with a rotary switch/encoder, and 4 SK6812 M
 - Pokemon themed design
 
 # Build
+[Watch demo video](https://user-cdn.hackclub-assets.com/01a20631-ce0f-7694-acb6-e5bbcc95c691/hackpad.mp4)
+
+
 <img width="1250" height="auto" alt="image" src="https://github.com/user-attachments/assets/f1b7f58a-ad1b-46c9-b910-623ded1f4d6e" />
 
 ## CAD Model:
-Here is the case, made in onshape. I used onshape because Fusion basically blew my computer up. 
+Here is the case, made in onshape.
 
 
 <img width="1250" height="auto" alt="image" src="https://github.com/user-attachments/assets/d66efd7f-062a-44ae-808a-4c25495436ef" />
@@ -42,7 +45,7 @@ Here's the PCB, made in KiCad.
 
 
 ## Firmware Overview
-This hackpad uses [KMK](https://github.com/KMKfw/kmk_firmware) firmware and [QMK](https://qmk.fm/) firmware.
+This hackpad uses [QMK](https://qmk.fm/) firmware and [KMK](https://github.com/KMKfw/kmk_firmware) firmware is also supported.
 - the rotary encoder changes volume, press to mute
 - the 5 regular keys are changeable via VIA!
 - The OLED displays: "Pokemon Hackpad", "Layer : (layer num)", "CAPS (on/off)", "sahilchess"
