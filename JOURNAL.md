@@ -69,3 +69,21 @@ did some finishing touches for my case and sent a quote in #printing-legion. als
 hackatime: [39m](https://lapse.hackclub.com/timelapse/BxYMIa21RD5-) | [28m](https://lapse.hackclub.com/timelapse/hy41wROVyg84)
 
 **Total time spent: 1.1hr**
+
+# November 22: done for reals this time
+
+finally got my case printed and all the things soldered. the SKs don't work but the XIAO's builtin LED should suffice. 
+features:
+- after some idle time, it will go to a animation of a trainer releasing a jolteon, dragonite, and Arcainine.
+- click the encoder to cycle through layers, and each time you click the encoder, you get a preview of what the layer's config is.
+- for funsies, i added a CAPS indicator on the oled
+- Pokemon Hackpad and sahilchess on the oled
+- as well as the layer #
+- VIA compatible. make sure you have the `via.json` file!
+
+holy i worked so much today for this bc i wanted to get it shipped. I edited the vid and usually im attention to detail but now im too lazy to get it perfect. really, i spent like an extra (no joke) 2.5 hrs troubleshooting the code bc it was cooked.
+
+hackatime: [47m](https://lapse.hackclub.com/timelapse/w7cfTdOFdbBi) | [15m](https://lapse.hackclub.com/timelapse/Zv3Qxguvc2ze) | [19m](https://lapse.hackclub.com/timelapse/sR1QiCE3lIeM)
+
+**Total time spent: 1.35hr**
+
