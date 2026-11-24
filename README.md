@@ -27,8 +27,7 @@ Pokemon Hackpad is a 5 key macropad with a rotary switch/encoder, and 3 SK6812 M
 ## CAD Model:
 Here is the case, made in onshape.
 
-
-<img width="1250" height="auto" alt="image" src="https://github.com/user-attachments/assets/d66efd7f-062a-44ae-808a-4c25495436ef" />
+<img width="1250" height="auto" alt="image" src="https://github.com/user-attachments/assets/b6be5433-32b3-4005-9e4a-8cd28a8db402" />
 <img width="1250" height="auto" alt="image" src="https://github.com/user-attachments/assets/79f80972-4f14-406a-a01a-ce2361633350" />
 <img width="1250" height="auto" alt="image" src="https://github.com/user-attachments/assets/909ae86d-40e8-42d0-9a8a-7262f05f65ff" />
 
