@@ -118,7 +118,7 @@
         "nonmirrored_text_on_back_layer": "warning",
         "npth_inside_courtyard": "error",
         "padstack": "warning",
-        "pth_inside_courtyard": "error",
+        "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
         "silk_edge_clearance": "ignore",
         "silk_over_copper": "ignore",
@@ -556,6 +556,7 @@
       "netlist": "",
       "plot": "C:/Users/sahil/Documents/Kicad Projects/Pokemon-Hackpad/production/",
       "specctra_dsn": "",
+      "step": "Pokemon Hackpad.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -686,7 +687,7 @@
         "uuid": "b845ba71-0ed5-454f-9247-0969566e5c7e"
       }
     ],
-    "used_designators": "U2,H1",
+    "used_designators": "H1,U2",
     "variants": []
   },
   "sheets": [
